@@ -141,7 +141,7 @@ p {
     color: #66FF66;
 }
 .header {
-    background: url(../images/home.jpg);
+    background: url(../images/parcnational.png);
     background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -388,7 +388,7 @@ tuor:visited {
     height: auto;
 }
 .testimonial {
-    background: url(../images/testimonial.jpg);
+    background: url(../images/kon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
