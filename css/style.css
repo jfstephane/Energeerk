@@ -99,7 +99,7 @@ p {
         font-family: 'Raleway', sans-serif;
     }
     .navbar-default .navbar-nav>li>a:hover {
-        color: #f39c12;
+        color: #66FF66;
     }
     .navbar-default .navbar-nav>li>a:focus {
         color: #B5B5B5;
@@ -800,7 +800,7 @@ div.carousel-inner .item img {
     height: 50px;
     text-transform: uppercase;
     font-size: 18px;
-    color: #f39c12;
+    color: #66FF66;
     -webkit-transition: all 1s;
     -moz-transition: all 1s;
     -o-transition: all 1s;
@@ -927,7 +927,7 @@ div.carousel-inner .item img {
 .subs-btn:visited {
     width: 200px;
     background: transparent;
-    border: 1px solid #f39c12;
+    border: 1px solid #66FF66;
     border-radius: 4px;
     height: 45px;
     margin-left: 0px;
